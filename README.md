@@ -1,4 +1,4 @@
-## [neilfink.github.io/neils-portfolio/](https://www.neilfink.github.io/neils-portfolio/)
+## [Check out my portfolio site!](https://neilfink.github.io/neils-portfolio/)
 
 Hi, my name is Neil Fink. My username is @neilfink.
 - I love game development!
